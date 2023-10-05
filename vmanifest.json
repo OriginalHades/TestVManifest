@@ -1,0 +1,7 @@
+{
+    "name":"Test repo",
+    "description":"This is a TEST REPOSITORY IT HAS ALMOST NO CONTENTS",
+    "start":[
+        "py main.py"
+    ]
+}
